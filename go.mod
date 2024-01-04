@@ -1,6 +1,6 @@
 module github.com/tardisx/caddy_prometheus_exporter
 
-go 1.21.4
+go 1.21
 
 require (
 	github.com/nxadm/tail v1.4.11
